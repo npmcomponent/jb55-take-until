@@ -1,13 +1,17 @@
-
 # take-until
 
   Take elements from an array until a condition is met
 
 ## Installation
 
+  Install with npm
+
+     npm install jb55/take-until
+
   Install with [component(1)](http://component.io):
 
     $ component install jb55/take-until
+
 
 ## API
 
